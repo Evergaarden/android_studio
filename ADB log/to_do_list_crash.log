@@ -1,0 +1,32 @@
+2021-08-01 14:12:09.838 3253-3253/com.android.todolist I/ndroid.todolis: Not late-enabling -Xcheck:jni (already on)
+2021-08-01 14:12:09.868 3253-3253/com.android.todolist I/ndroid.todolis: Unquickening 12 vdex files!
+2021-08-01 14:12:09.887 3253-3253/com.android.todolist W/ndroid.todolis: Unexpected CPU variant for X86 using defaults: x86
+2021-08-01 14:12:10.305 3253-3253/com.android.todolist D/ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+2021-08-01 14:12:10.667 3253-3253/com.android.todolist D/NetworkSecurityConfig: No Network Security Config specified, using platform default
+2021-08-01 14:12:10.668 3253-3253/com.android.todolist D/NetworkSecurityConfig: No Network Security Config specified, using platform default
+2021-08-01 14:12:10.857 3253-3308/com.android.todolist D/libEGL: loaded /vendor/lib/egl/libEGL_emulation.so
+2021-08-01 14:12:10.882 3253-3308/com.android.todolist D/libEGL: loaded /vendor/lib/egl/libGLESv1_CM_emulation.so
+2021-08-01 14:12:10.885 3253-3308/com.android.todolist D/libEGL: loaded /vendor/lib/egl/libGLESv2_emulation.so
+2021-08-01 14:12:10.959 3253-3253/com.android.todolist W/ndroid.todolis: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (greylist, reflection, allowed)
+2021-08-01 14:12:10.959 3253-3253/com.android.todolist W/ndroid.todolis: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (greylist, reflection, allowed)
+2021-08-01 14:12:11.699 3253-3347/com.android.todolist W/SQLiteLog: (28) double-quoted string literal: "803253a5b56d65a7e0b1c4900298c9b8"
+2021-08-01 14:12:11.701 3253-3347/com.android.todolist W/SQLiteLog: (28) double-quoted string literal: "803253a5b56d65a7e0b1c4900298c9b8"
+2021-08-01 14:12:11.828 3253-3301/com.android.todolist D/HostConnection: HostConnection::get() New Host Connection established 0xef9e12c0, tid 3301
+2021-08-01 14:12:11.839 3253-3301/com.android.todolist D/HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_YUV_Cache ANDROID_EMU_async_unmap_buffer GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_async_frame_commands ANDROID_EMU_gles_max_version_3_0 
+2021-08-01 14:12:11.843 3253-3301/com.android.todolist W/OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+2021-08-01 14:12:11.867 3253-3301/com.android.todolist D/EGL_emulation: eglCreateContext: 0xef9e1a30: maj 3 min 0 rcv 3
+2021-08-01 14:12:11.946 3253-3301/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xef9e1a30: ver 3 0 (tinfo 0xefd18890) (first time)
+2021-08-01 14:12:11.983 3253-3301/com.android.todolist I/Gralloc4: mapper 4.x is not supported
+2021-08-01 14:12:11.984 3253-3301/com.android.todolist D/HostConnection: createUnique: call
+2021-08-01 14:12:11.984 3253-3301/com.android.todolist D/HostConnection: HostConnection::get() New Host Connection established 0xef9dca20, tid 3301
+2021-08-01 14:12:11.984 3253-3301/com.android.todolist D/goldfish-address-space: allocate: Ask for block of size 0x100
+2021-08-01 14:12:11.984 3253-3301/com.android.todolist D/goldfish-address-space: allocate: ioctl allocate returned offset 0x3fef3e000 size 0x2000
+2021-08-01 14:12:11.990 3253-3301/com.android.todolist D/HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_YUV_Cache ANDROID_EMU_async_unmap_buffer GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_async_frame_commands ANDROID_EMU_gles_max_version_3_0 
+2021-08-01 14:12:12.179 3253-3274/com.android.todolist I/ndroid.todolis: Background young concurrent copying GC freed 12402(1272KB) AllocSpace objects, 0(0B) LOS objects, 90% free, 2447KB/26MB, paused 688us total 287.107ms
+2021-08-01 14:12:12.389 3253-3253/com.android.todolist I/Choreographer: Skipped 44 frames!  The application may be doing too much work on its main thread.
+2021-08-01 14:12:12.444 3253-3301/com.android.todolist I/OpenGLRenderer: Davey! duration=802ms; Flags=0, IntendedVsync=97780175648, Vsync=98513508952, OldestInputEvent=9223372036854775807, NewestInputEvent=0, HandleInputStart=98529182700, AnimationStart=98529228500, PerformTraversalsStart=98530187600, DrawStart=98544224600, SyncQueued=98548952400, SyncStart=98550526100, IssueDrawCommandsStart=98550689200, SwapBuffers=98577311500, FrameCompleted=98583976400, DequeueBufferDuration=1654500, QueueBufferDuration=1845700, GpuCompleted=360779087873, 
+2021-08-01 14:12:20.867 3253-3253/com.android.todolist D/CompatibilityChangeReporter: Compat change id reported: 147798919; UID 10154; state: DISABLED
+2021-08-01 14:12:39.247 3253-3276/com.android.todolist W/System: A resource failed to call release. 
+2021-08-01 14:13:21.688 3253-3253/com.android.todolist E/ndroid.todolis: Invalid ID 0x00000000.
+2021-08-01 14:13:21.703 3253-3253/com.android.todolist I/AssistStructure: Flattened final assist data: 3068 bytes, containing 2 windows, 25 views
+2021-08-01 14:13:44.259 3253-3253/com.android.todolist D/CompatibilityChangeReporter: Compat change id reported: 150939131; UID 10154; state: DISABLED
